@@ -1,10 +1,9 @@
 # Directory Structure Documentation
 
-This repository contains the implementation of a personalized recommendation system to predict repeat purchases using customer transaction data. We explored product feature embedding extraction using BERT-based language models. We also performed feature engineering on purchase patterns and improved prediction accuracy using FNN and CASER models with negative sampling strategies. The final model achieved a Hit@10 score of 0.356. For additional details, please refer to the **REPORT** file.
+## Overview
+This document describes the structure and purpose of the directories and files in the project. Below is the hierarchical structure and explanation of each component.
 
 ## Project Structure
-
- Below is the hierarchical structure and explanation of each component.
 
 ```text
 Complete Code/
